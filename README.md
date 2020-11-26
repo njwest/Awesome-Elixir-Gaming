@@ -57,7 +57,7 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## Talks
 
 - [GeoRacer - a real-time multiplayer mobile game in Elixir in 6 weeks (2020, Zack Kayser and Beau Heubach)](https://www.youtube.com/watch?v=5DGUqcd-HWQ&ab_channel=CodeSync)
-- [Building a Scalable, Distributed Backend for Mobile Games (2017, Petri Kero)](https://www.youtube.com/watch?v=nCSO8yeR0c4&ab_channel=ErlangSolutions)`
+- [Building a Scalable, Distributed Backend for Mobile Games (2017, Petri Kero)](https://www.youtube.com/watch?v=nCSO8yeR0c4&ab_channel=ErlangSolutions)
 - [Building Multiplayer Games with Phoenix & Phaser (2016, Keith Salisbury)](https://www.youtube.com/watch?v=I5L9_cXwBcU&ab_channel=ErlangSolutions)
 
 ## Discussions 
