@@ -2,7 +2,7 @@
 Elixir resources for making and networking games. Some of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
 
 - [Unity](#unity)
-- [Phaster](#phaser)
+- [Phaser](#phaser)
 - [LiveView](#liveview)
 - [Elm](#elm)
 - [Elixir](#elixir)
