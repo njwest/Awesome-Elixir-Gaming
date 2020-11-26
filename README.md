@@ -1,5 +1,5 @@
 # Awesome Elixir Gaming
-Elixir resources for making and networking games. Some of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
+Elixir resources for making and networking games. 
 
 - [Unity](#unity)
 - [Phaser](#phaser)
@@ -10,6 +10,8 @@ Elixir resources for making and networking games. Some of these links were copie
 - [Frameworks](#frameworks)
 - [Talks](#talks)
 - [Discussions](#discussions)
+
+A few of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
 
 **Note:** Some libraries linked below may be unmaintained/incompatible with the latest versions of Elixir/Erlang/Phoenix -- always check repo Issues. 
 
