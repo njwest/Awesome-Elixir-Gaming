@@ -11,9 +11,9 @@ Elixir resources for making and networking games. Some of these links were copie
 - [Talks](#talks)
 - [Discussions](#discussions)
 
-**Note:** Some libraries linked below may be unmaintained/incompatible with the latest versions of Elixir/Erlang/Phoenix -- always check repo issues. 
+**Note:** Some libraries linked below may be unmaintained/incompatible with the latest versions of Elixir/Erlang/Phoenix -- always check repo Issues. 
 
-If you find libraries that do not work with the latest versions of Elixir/Erlang/Phoenix, please open an Issue on the appropriate repo so maintainers/others can tell :]
+If you find libraries that do not work with the latest versions of Elixir/Erlang/Phoenix, please open an Issue on the appropriate repo so maintainers/repo surfers can tell :]
 
 ## Unity
 
@@ -29,12 +29,16 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## LiveView
 
 - [MOBA: A community-made RPG built with LiveView](https://elixirforum.com/t/moba-a-community-made-rpg-built-with-liveview/34123?fbclid=IwAR0D7e1pETuH1OeuGv_TIY2xkVpGkPYkOnIt28S9UoEcyCf8jg9hwQt4M9I)
-- [King of Tokyo](https://github.com/dkarter/king_of_tokyo)
-- [Game of Life](https://github.com/dkarter/game_of_life)
+- [PhoenixPhrenzy: LiveView Demo Contest (many games under Entries)](https://phoenixphrenzy.com/)
+- [Georacer](https://github.com/zkayser/georacer)
+- [Conway's Game of Life](https://github.com/dkarter/game_of_life)
+- [King of Tokyo boardgame companion](https://github.com/dkarter/king_of_tokyo)
 
 ## Elm
 
 - [Fretmaster](https://github.com/dkarter/fretmaster-elm)
+- [PokerEx Elm Client](https://github.com/zkayser/pokerex_client) | [PokerEx Phoenix server](https://github.com/zkayser/poker_ex)
+- [Elm Scrabble](https://github.com/zkayser/elm_scrabble)
 
 ## Elixir
 
@@ -56,5 +60,6 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 
 ## Discussions 
 
+- [Elixir Games!](https://elixirforum.com/t/elixir-games/26731)
 - [Is Elixir suited for a performance game server?](https://elixirforum.com/t/is-elixir-suited-for-a-performance-game-server/21809/11)
 - [Phoenix Presence for tracking players?](https://elixirforum.com/t/help-me-decide-between-phoenix-presence-and-a-custom-solution/19605)
