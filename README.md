@@ -4,6 +4,10 @@ Elixir resources for making and networking games. Some of these links were copie
 - [Unity](#unity)
 - [Phaster](#phaser)
 - [LiveView](#liveview)
+- [Elm](#elm)
+- [Elixir](#elixir)
+- [Erlang](#erlang)
+- [Frameworks](#frameworks)
 - [Talks](#talks)
 - [Discussions](#discussions)
 
