@@ -1,5 +1,5 @@
 # Awesome Elixir Gaming
-Elixir resources for making and networking games
+Elixir resources for making and networking games. Some of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
 
 - [Unity](#unity)
 - [Phaster](#phaser)
@@ -19,8 +19,8 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 
 ## Phaser
 
-- [Tankx Game](https://github.com/denvaar/tankx_client)
-- [Tankx Server](https://github.com/denvaar/tankx)
+- [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
+- [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client), [Tankx Server](https://github.com/denvaar/tankx)
 
 ## LiveView
 
@@ -31,6 +31,18 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## Elm
 
 - [Fretmaster](https://github.com/dkarter/fretmaster-elm)
+
+## Elixir
+
+- [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
+
+## Erlang
+
+- [Binbo: Pure Erlang chess implementation](https://github.com/DOBRO/binbo)
+
+## Frameworks
+
+- [Entice: entity-component-system MMO framework with Elixir server](https://github.com/entice/entice)
 
 ## Talks
 
