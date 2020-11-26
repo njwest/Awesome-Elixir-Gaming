@@ -26,7 +26,7 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## Phaser
 
 - [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
-- [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client), [Tankx Server](https://github.com/denvaar/tankx)
+- [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
 
 ## LiveView
 
