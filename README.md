@@ -25,6 +25,12 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## LiveView
 
 - [MOBA: A community-made RPG built with LiveView](https://elixirforum.com/t/moba-a-community-made-rpg-built-with-liveview/34123?fbclid=IwAR0D7e1pETuH1OeuGv_TIY2xkVpGkPYkOnIt28S9UoEcyCf8jg9hwQt4M9I)
+- [King of Tokyo](https://github.com/dkarter/king_of_tokyo)
+- [Game of Life](https://github.com/dkarter/game_of_life)
+
+## Elm
+
+- [Fretmaster](https://github.com/dkarter/fretmaster-elm)
 
 ## Talks
 
