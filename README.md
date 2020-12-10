@@ -3,9 +3,9 @@ Elixir resources for making and networking games.
 
 - [Unity](#unity)
 - [Phaser](#phaser)
+- [Elixir](#elixir)
 - [LiveView](#liveview)
 - [Elm](#elm)
-- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Frameworks](#frameworks)
 - [Talks](#talks)
@@ -29,7 +29,7 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 - [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
 
 ## Elixir
-- [Rock-Paper-Scissors on Phoenix with GenServers](https://github.com/rsalgado/rock_paper_scissors)
+- [Rock-Paper-Scissors on Phoenix with GenServers + VueJS](https://github.com/rsalgado/rock_paper_scissors)
 - [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
 
 ## LiveView
