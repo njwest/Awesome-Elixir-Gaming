@@ -28,6 +28,10 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 - [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
 - [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
 
+## Elixir
+- [Rock-Paper-Scissors on Phoenix with GenServers](https://github.com/rsalgado/rock_paper_scissors)
+- [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
+
 ## LiveView
 
 - [MOBA: A community-made RPG built with LiveView](https://elixirforum.com/t/moba-a-community-made-rpg-built-with-liveview/34123?fbclid=IwAR0D7e1pETuH1OeuGv_TIY2xkVpGkPYkOnIt28S9UoEcyCf8jg9hwQt4M9I)
@@ -41,10 +45,6 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 - [Fretmaster](https://github.com/dkarter/fretmaster-elm)
 - [PokerEx Elm Client](https://github.com/zkayser/pokerex_client) | [PokerEx Phoenix server](https://github.com/zkayser/poker_ex)
 - [Elm Scrabble](https://github.com/zkayser/elm_scrabble)
-
-## Elixir
-
-- [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
 
 ## Erlang
 
