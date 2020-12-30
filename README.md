@@ -1,9 +1,9 @@
 # Awesome Elixir Gaming
 Elixir resources for making and networking games. 
 
+- [Elixir](#elixir)
 - [Unity](#unity)
 - [Phaser](#phaser)
-- [Elixir](#elixir)
 - [LiveView](#liveview)
 - [Elm](#elm)
 - [Erlang](#erlang)
@@ -17,6 +17,11 @@ A few of these links were copied from Julius Beckmann's super comprehensive [Awe
 
 If you find libraries that do not work with the latest versions of Elixir/Erlang/Phoenix, please open an Issue on the appropriate repo so maintainers/repo surfers can tell :]
 
+## Elixir
+- [Tanx: Tank multiplayer game developed by Elixir Seattle](https://github.com/ElixirSeattle/tanx)
+- [Rock-Paper-Scissors on Phoenix with GenServers + VueJS](https://github.com/rsalgado/rock_paper_scissors)
+- [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
+
 ## Unity
 
 - [InVected: GlobalGameJam Game made using Unity + Phoenix 1.3](https://elixirforum.com/t/invected-globalgamejam-game-that-uses-elixir/12413)
@@ -27,10 +32,6 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 
 - [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
 - [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
-
-## Elixir
-- [Rock-Paper-Scissors on Phoenix with GenServers + VueJS](https://github.com/rsalgado/rock_paper_scissors)
-- [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
 
 ## LiveView
 
