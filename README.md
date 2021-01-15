@@ -2,8 +2,8 @@
 Elixir resources for making and networking games. 
 
 - [Elixir](#elixir)
-- [Unity](#unity)
 - [Phaser](#phaser)
+- [Unity](#unity)
 - [LiveView](#liveview)
 - [Elm](#elm)
 - [Erlang](#erlang)
@@ -22,16 +22,17 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 - [Rock-Paper-Scissors on Phoenix with GenServers + VueJS](https://github.com/rsalgado/rock_paper_scissors)
 - [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
 
+## Phaser
+
+- [UaiShot - Phaser + Phoenix Channels multiplayer space shooter with Asteroids-like physics](https://github.com/sergioaugrod/uai_shot)
+- [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
+- [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
+
 ## Unity
 
 - [InVected: GlobalGameJam Game made using Unity + Phoenix 1.3](https://elixirforum.com/t/invected-globalgamejam-game-that-uses-elixir/12413)
 - [Fenix: .NET Standard 2 implementation of Phoenix framework websockets protocol](https://github.com/mjaric/fenix)
 - [PhoenixSharp: C# Phoenix Channels Client](https://github.com/Mazyod/PhoenixSharp)
-
-## Phaser
-
-- [Vim Snake: Phaser VimSnake clone using Phoenix](https://github.com/theanht1/vim_snake)
-- [Tankx Game (Phaser)](https://github.com/denvaar/tankx_client) | [Tankx Server](https://github.com/denvaar/tankx)
 
 ## LiveView
 
