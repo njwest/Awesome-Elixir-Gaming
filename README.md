@@ -58,7 +58,7 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 
 - [GraphMath: a library for handling common 2D and 3D math operations](https://github.com/crertel/graphmath)
 - [Collidex: 2D geometry collision detection library in pure Elixir (last updated 4 years ago)](https://github.com/IdahoEv/collidex)
-- [Collision: a library for generatinga nd working with polygon collisions, using the separating axis theorem (last updated 5 years ago)](https://github.com/tpoulsen/collision)
+- [Collision: a library for generating and working with polygon collisions, using the separating axis theorem (last updated 5 years ago)](https://github.com/tpoulsen/collision)
 
 ## Frameworks
 
