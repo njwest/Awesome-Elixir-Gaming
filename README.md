@@ -7,11 +7,12 @@ Elixir resources for making and networking games.
 - [LiveView](#liveview)
 - [Elm](#elm)
 - [Erlang](#erlang)
+- [Physics](#physics)
 - [Frameworks](#frameworks)
 - [Talks](#talks)
 - [Discussions](#discussions)
 
-A few of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
+A couple of these links were copied from Julius Beckmann's super comprehensive [Awesome Elixir](https://github.com/h4cc/awesome-elixir) repo. 
 
 **Note:** Some libraries linked below may be unmaintained/incompatible with the latest versions of Elixir/Erlang/Phoenix -- always check repo Issues. 
 
@@ -20,6 +21,7 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## Elixir
 - [Tanx: Tank multiplayer game developed by Elixir Seattle](https://github.com/ElixirSeattle/tanx)
 - [Rock-Paper-Scissors on Phoenix with GenServers + VueJS](https://github.com/rsalgado/rock_paper_scissors)
+- [CardsNif: Example Elixir app with **Rust NIFs**](https://github.com/mareknowak/cardsnif)
 - [Mines: Pure Elixir minesweeper clone for terminal](https://github.com/kevin-hanselman/mines)
 
 ## Phaser
@@ -51,6 +53,12 @@ If you find libraries that do not work with the latest versions of Elixir/Erlang
 ## Erlang
 
 - [Binbo: Pure Erlang chess implementation](https://github.com/DOBRO/binbo)
+
+## Physics
+
+- [GraphMath: a library for handling common 2D and 3D math operations](https://github.com/crertel/graphmath)
+- [Collidex: 2D geometry collision detection library in pure Elixir (last updated 4 years ago)](https://github.com/IdahoEv/collidex)
+- [Collision: a library for generatinga nd working with polygon collisions, using the separating axis theorem (last updated 5 years ago)](https://github.com/tpoulsen/collision)
 
 ## Frameworks
 
